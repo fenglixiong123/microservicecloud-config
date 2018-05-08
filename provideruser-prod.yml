@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: config-user-prod
+    
+info: 
+   app.name:user-prod
+   
+hobby: user-hobby-prod 
+    

@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: config-user-test
+    
+info: 
+   app.name:user-test
+   
+hobby: user-hobby-test 
+    
